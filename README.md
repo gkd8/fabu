@@ -1,5 +1,1 @@
-## 地址发布区
-1. [https://534534.xyz](https://534534.xyz "https://534534.xyz")
-1. [https://gkd8.gq](https://gkd8.gq "https://gkd8.gq")
-1. [https://gkd8.vercel.app](https://gkd8.vercel.app "https://gkd8.vercel.app")
-1. **保存本地址方便找回！！！**
+**您可以在此观看或下载资源，介于有的浏览器不能很好的支持在线播放，所以推荐下载VLC或者Ptoplayer播放软件进行跳转播放**
